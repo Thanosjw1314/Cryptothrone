@@ -18,7 +18,7 @@ CT（Cryptothrone Token）为加密王座中的通用货币，目前相关开发
 除此以外，本次测试官方收取到的迁城、开启保护罩手续费也将计入大奖池中。
 
 
-<img  src="https://note.youdao.com/yws/public/resource/b36d0fe8e0d15699310c7f414756171d/xmlnote/6C84CFC96DE84F2A95DD7B6E9BE93999/12985 "  width=30%  height=30% />
+<img  src="http://thyrsi.com/t6/606/1542104958x2890191691.jpg"  width=30%  height=30% />
 
 注：排行榜显示的掠夺和奖池eos数均为真实情况的10倍，发奖时按照真实数据发放。
 
