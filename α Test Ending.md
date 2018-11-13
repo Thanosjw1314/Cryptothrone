@@ -6,8 +6,6 @@
 
 可以看看之前的游戏介绍和后续规划，总体来说，需要做的内容很多；现在市面上的好Dapp不多，深感时间太少。
 
-[游戏介绍](https://github.com/Thanosjw1314/Cryptothrone)
-
 公示一下本期活动EOS和CT发奖名单：
 <img  src="http://thyrsi.com/t6/412/1541494956x-1404817844.png"  width=100%  height=100% />
 
