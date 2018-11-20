@@ -9,7 +9,7 @@
 
 ### 罗列一下ver1.0.3版本面世前我们要做的事情：
 
-1、加密王座代币Cryptothrone Token上线，CT介绍传送门
+1、加密王座代币Cryptothrone Token上线，[CT介绍传送门](https://github.com/Thanosjw1314/Cryptothrone)
 
 2、联盟玩法
 
