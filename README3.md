@@ -27,7 +27,8 @@ CT（Cryptothrone Token）是『加密王座』中的通用货币，目前也已
 
 在前两次的测试中，很多朋友吐槽游戏地图拖拽太过麻烦，在三测版本中，我们优化了地图系统，增加了世界地图功能，现在在地图中寻找资源点和其他玩家已经变得十分轻松！
 
-![enter image description here](http://thyrsi.com/t6/632/1544846771x2890171761.jpg)
+
+<img src="http://thyrsi.com/t6/632/1544846771x2890171761.jpg" width=40% height=40% />
 
 玩家可通过点击主界面右下角的世界地图ICON，进入世界地图。
 
