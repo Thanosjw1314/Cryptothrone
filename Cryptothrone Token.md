@@ -17,6 +17,7 @@ CT获得公式为：
 n：表示发行轮次
 
 详细比例如下图：
+
 ![enter image description here](http://thyrsi.com/t6/632/1544855101x2890174273.jpg)
 ## 运营活动资金20%
 游戏内每次产出一定量的CT，将会以3:1的比例产出运营活动资金；该部分资金统一保管至合约账户：ctactivity123。
